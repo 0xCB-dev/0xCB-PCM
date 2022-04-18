@@ -33,7 +33,7 @@
             "versions": [
                 {
                     "version": "2022.04.19",
-                    "status": "testing",
+                    "status": "stable",
                     "kicad_version": "6.0",
                     "download_sha256": "065aa5c88c22ed307603ba809e43ecb4afcf9007eb97171d162fc0d7bd91b2a5",
                     "download_size": 2945240,
