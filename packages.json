@@ -39,6 +39,15 @@
                     "download_size": 2945240,
                     "download_url": "https://github.com/0xCB-dev/0xCB-libs/releases/download/2022.04.19/KiCAD-PCM-2022.04.19.zip",
                     "install_size": 15526541
+                },
+                {
+                    "version": "2022.04.20",
+                    "status": "stable",
+                    "kicad_version": "6.0",
+                    "download_sha256": "62c13e8510709eb793c7891e6243ad007a88b483744f4ebc8a2ccb79cb78bce6",
+                    "download_size": 2945240,
+                    "download_url": "https://github.com/0xCB-dev/0xCB-libs/releases/download/2022.04.20/KiCAD-PCM-2022.04.20.zip",
+                    "install_size": 15526541
                 }
             ]
         }
