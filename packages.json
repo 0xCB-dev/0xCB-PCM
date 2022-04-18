@@ -24,22 +24,13 @@
                 "Github": "https://github.com/0xcb-libs/0xcb-libs",
                 "Website": "https://0xcb.dev"
             },
-            "tags":[
+            "tags": [
                 "footprint",
                 "library",
                 "keeb",
                 "mx"
-             ],
+            ],
             "versions": [
-                {
-                    "version": "2022.04.18",
-                    "status": "stable",
-                    "kicad_version": "6.0",
-                    "download_sha256": "48611b125a44c254576a809f30c339d3dd876f29ef19dd501892997593e51e51",
-                    "download_size": 2093448,
-                    "download_url": "https://github.com/0xCB-dev/0xcb-libs/releases/download/2022.04.18/KiCAD-PCM-2022.04.18.zip",
-                    "install_size": 10760192
-                },
             ]
         }
     ]

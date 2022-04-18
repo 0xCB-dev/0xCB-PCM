@@ -8,9 +8,9 @@
     },
     "name": "0xCB repo",
     "packages": {
-        "sha256": "0c63fd59c3d0d7c10dd3255bfc4097e0799d01d4dbf8b75b6e60ef170c3765d6",
-        "update_time_utc": "2022-04-13 10:55:46",
-        "update_timestamp": 1649847346,
+        "sha256": "a0ee01b200f94cd6531d0b6aba4af5f85ab8ec90f30efc2d1df8b5916def6faa",
+        "update_time_utc": "2022-04-18 22:27:47",
+        "update_timestamp": 1650313667,
         "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
     },
     "resources": {

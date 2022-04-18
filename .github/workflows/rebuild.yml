@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Regenerate josn files
+      - name: Regenerate json files
         run: python generate.py ${{ github.event.inputs.VERSION }} ${{ github.event.inputs.DOWNLOAD_SHA256 }} ${{ github.event.inputs.DOWNLOAD_SIZE }} ${{ github.event.inputs.DOWNLOAD_URL }} ${{ github.event.inputs.INSTALL_SIZE }}
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
