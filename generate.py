@@ -14,7 +14,7 @@ with open("packages.json", "r+") as f:
     data = json.load(f)
     info = {
           "version": VERSION,
-          "status": "testing",
+          "status": "stable",
           "kicad_version": "6.0",
           "download_sha256": DOWNLOAD_SHA256,
           "download_size": int(DOWNLOAD_SIZE),
