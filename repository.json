@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "github": "@Conor-Burns"
+        },
+        "name": "Conor Burns"
+    },
+    "name": "0xCB repo",
+    "packages": {
+        "sha256": "0c63fd59c3d0d7c10dd3255bfc4097e0799d01d4dbf8b75b6e60ef170c3765d6",
+        "update_time_utc": "2022-04-13 10:55:46",
+        "update_timestamp": 1649847346,
+        "url": "https://raw.githubusercontent.com/Bouni/bouni-kicad-repository/main/packages.json"
+    },
+    "resources": {
+        "sha256": "2efbd0e251ff739ac20422a2ebd7a60ad82a70f852fc39994591a7d709c8b60e",
+        "update_time_utc": "2022-04-18 22:47:00",
+        "update_timestamp": 1650318423,
+        "url": "https://github.com/0xCB-dev/0xCB-PCM/raw/main/resources.zip"
+    }
+}
