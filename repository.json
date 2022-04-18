@@ -14,7 +14,7 @@
         "url": "https://raw.githubusercontent.com/0xCB-dev/0xCB-PCM/main/packages.json"
     },
     "resources": {
-        "sha256": "2efbd0e251ff739ac20422a2ebd7a60ad82a70f852fc39994591a7d709c8b60e",
+        "sha256": "19ad77bf7882c737be7e4f484350ab83df869b7e397dc3089e5d0cee3bc04491",
         "update_time_utc": "2022-04-18 22:47:00",
         "update_timestamp": 1650318423,
         "url": "https://github.com/0xCB-dev/0xCB-PCM/raw/main/resources.zip"
