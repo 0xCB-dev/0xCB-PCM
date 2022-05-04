@@ -8,9 +8,9 @@
     },
     "name": "0xCB repo",
     "packages": {
-        "sha256": "2adc0479904a4314bb2171feb8284879fb4d3c6ec023dafc934dca25be7cec89",
-        "update_time_utc": "2022-04-18 23:36:01",
-        "update_timestamp": 1650324961,
+        "sha256": "6202c65ac6b9aefd1c4fa63fc07b133bf371831bf11a899e3dd9e84ef8e5682e",
+        "update_time_utc": "2022-05-04 16:49:20",
+        "update_timestamp": 1651682960,
         "url": "https://raw.githubusercontent.com/0xCB-dev/0xCB-PCM/main/packages.json"
     },
     "resources": {
